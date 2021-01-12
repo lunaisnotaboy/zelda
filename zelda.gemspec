@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["her@mint.lgbt"]
 
   spec.summary       = "a simple framework written in ruby"
-  spec.description   = File.read(File.expand_path("README.md", __dir__)).strip
+  spec.description   = "an easy to use web framework written in ruby"
   spec.homepage      = "https://github.com/lunaisnotaboy/zelda"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")

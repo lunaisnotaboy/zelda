@@ -5,4 +5,7 @@ require_relative "zelda/version"
 module Zelda
   class Error < StandardError; end
   # Your code goes here...
+  class main
+    puts "zelda isn't finished!"
+  end
 end
