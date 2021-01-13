@@ -3,3 +3,5 @@
 # frozen_string_literal: true
 
 require "zelda"
+
+Zelda::Main
