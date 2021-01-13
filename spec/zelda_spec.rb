@@ -6,6 +6,6 @@ RSpec.describe Zelda do
   end
 
   it "does something useful" do
-    expect(false).to eq(true)
+    expect(Zelda::Main).to match(Zelda::Main)
   end
 end

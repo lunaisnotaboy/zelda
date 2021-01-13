@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description   = "an easy to use web framework written in ruby"
   spec.homepage      = "https://github.com/lunaisnotaboy/zelda"
   spec.license       = "MIT"
-  spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
+  spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
