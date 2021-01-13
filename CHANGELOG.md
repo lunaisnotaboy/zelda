@@ -8,9 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - This changelog.
 
-## [0.0.1] - 2021-01-13
+## [0.1.0] - 2021-01-13
 ### Added
 - The entire base gem.
 
-[Unreleased]: https://github.com/lunaisnotaboy/zelda/compare/v0.0.1...HEAD
-[0.0.1]: https://github.com/lunaisnotaboy/zelda/releases/tag/v0.0.1
+[Unreleased]: https://github.com/lunaisnotaboy/zelda/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/lunaisnotaboy/zelda/releases/tag/v0.1.0
